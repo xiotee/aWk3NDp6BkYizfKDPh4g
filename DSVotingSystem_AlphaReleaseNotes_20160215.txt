@@ -1,0 +1,113 @@
+=====================================================================
+[PROJECT NAME]............ Datalogics Society Voting System
+[RELEASE VERSION]......... 05.00.00
+[RELEASE DATE]............ 2016/02/15
+[PLATFORM / VERSION]...... PHP5
+                           Windows
+                           xampp control panel v3.2.1
+
+[SUPPORTED MODULES] ------------------------------------------------
+
+    1. Login 
+    2. Admin_Navigation Bar
+    3. Admin_Change Password
+    4. Admin_Announcements
+    5. Admin_Officers
+    6. Admin_Applications
+    7. Admin_Results
+    8. Admin_Users
+    9. Admin_About Us
+    10. Admin_Activation
+    11. Admin_View Logs
+    12. Student_Announcements
+    13. Student_Apply
+    14. Student Results
+    15. Student_About
+    16. Student_Change Pass
+    17. Student_Officers
+    18. Student_Activation
+ 
+
+
+[LIMITATIONS] -------------------------------------------------------
+    
+    1.  [Admin_Announcements] No pagination yet.
+    2.  [Student_Announcements] No pagination  yet.
+    
+
+
+[KNOWN BUGS] --------------------------------------------------------
+  
+    
+[FIXED BUGS] --------------------------------------------------------
+
+    1. 805 Logs: Sorting
+    2. 809 Users - Students: Sorting
+    3. 805 Logs: Sorting
+    4. 806 Announcements - Home(Users): Pagination
+    5. 808 Admin - Officers: Image Orientation
+    6. 809 Users - Students: Sorting
+    7. 810 Users - Administrators: Sorting   
+
+[RELEASE FILES] -----------------------------------------------------
+
+    1. <APPLICATION FILENAME>
+     Filename: DatalogicsSocietyVotingSystem_2015_Release_05.00.00
+    2. <DATABASE BACKUP FILENAME>
+     Filename: DatalogicsSocietyVotingSystem_DB_20160131.sql
+
+
+[ADDED FILES] -------------------------------------------------------
+
+
+[MODIFIED FILES]  ---------------------------------------------------
+
+    1. user_apply.php
+    2. admin_results.php
+    3. admin_app_pending.php
+    4. admin_users_stud.php
+    5. alerts.php
+    6. display_officers.php
+    7. admin_display_results.php
+    8. delete_result.php
+    9. status.php
+    10. user_display_results.php
+    11. user_vote_form.php
+    12. jquery.pajinate.js 
+
+
+[REMOVED FILES] -----------------------------------------------------
+    
+    
+[VIRUS CHECK] -------------------------------------------------------
+
+    1. ESET NOD32 Antivirus
+       Version 8.0.304.0
+
+
+[SPECIAL COMMENTS] --------------------------------------------------
+
+
+[DESTINATION] -------------------------------------------------------
+- The release files can be accessed in the following location
+
+    1.  C:\xampp\htdocs\Dropbox\DSVOTE\DSVote
+
+
+[RELEASE MEMO] ------------------------------------------------------
+- The release notes is sent to the following recipients
+
+    1. Erwin Sarmiento       esarmiento0302@gmail.com
+    2. PL                    j5_yutiu@yahoo.com
+    3. APL                   jeremifasolatido@gmail.com
+    4. Recorder              trishiagumboc@gmail.com
+
+
+
+=====================================================================
+
+APPROVED BY: Yutiu, Jeremy M.
+
+//nothing follows
+
+

@@ -1,0 +1,42 @@
+.pagination {list-style:none; margin:0px; padding:0px;}  
+.pagination li{float:left; margin:3px;}  
+.pagination li a{   display:block; padding:3px 5px; color:#fff; background-color:#44b0dd; text-decoration:none;}  
+.pagination li a.active {border:1px solid #000; color:#000; background-color:#fff;}  
+.pagination li a.inactive {background-color:#eee; color:#777; border:1px solid #ccc;} 
+
+#content .alert {height:110px;}
+
+.ellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.modal-dialog{
+clear:both;
+
+}
+
+.modal{
+margin-top:-250px;
+}
+.page_navigation{
+	padding:10px;
+}
+
+
+
+.modal.fade{
+z-index: -1050;
+top: -25%;
+-webkit-transition: opacity 0.3s linear, top 0.3s ease-out;
+-moz-transition: opacity 0.3s linear, top 0.3s ease-out;
+-ms-transition: opacity 0.3s linear, top 0.3s ease-out;
+-o-transition: opacity 0.3s linear, top 0.3s ease-out;
+transition: opacity 0.3s linear, top 0.3s ease-out;
+}
+
+.modal.fade.in{
+	z-index:1050;
+	top:50%;
+}
